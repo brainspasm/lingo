@@ -1,2 +1,2 @@
-source :rubygems
-gem 'padrino'
+source 'http://rubygems.org'
+gem 'sinatra'

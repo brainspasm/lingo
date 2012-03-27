@@ -1,2 +1,2 @@
-require File.dirname(__FILE__) + '/app.rb'
-run Padrino.application
+require './hello'
+run Sinatra::Application
